@@ -1,5 +1,5 @@
 def funkcija():
-   print("Keep it logically.")
+   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
